@@ -1,0 +1,10 @@
+.info{
+	line-height: 1.8;
+	padding-left: 3px;
+}
+
+.profilepic{
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}

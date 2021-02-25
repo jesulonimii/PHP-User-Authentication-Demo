@@ -1,0 +1,54 @@
+.links{
+	background-color: #004d80;
+	font-size: 12pt;
+	color: white;
+}
+
+.links ul{
+	list-style: none;
+	line-height: 3.0;
+	padding: 0;
+}
+
+.links li{
+	padding-left: 8px;
+}
+
+.links li:hover{
+	background-color: #0099cc;
+}
+
+
+.links a{
+	text-decoration: none;
+	color: white;
+	font-size: 16pt;
+}
+
+
+.active{
+	background-color: #0099cc;
+	background-size: cover;
+}
+
+.main{
+	background-color: white;
+	background-size: cover;
+	background-position: center;
+	color: #001f33;
+	font-size: 16pt;
+	height:  120vh;
+	padding: 10px;
+}
+
+.profilepic i{
+	color: #001f33;
+	font-size: 200px;
+}
+
+.info{
+	justify-content: center;
+	align-items: center;
+	line-height: 2;
+	padding-left: 200px;
+}

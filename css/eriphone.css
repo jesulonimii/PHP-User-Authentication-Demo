@@ -1,0 +1,55 @@
+.header{
+  width: 100%;
+  height: 60px;
+}
+
+.first{
+  background-size: cover;
+  background-position: center;
+  color: white;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  line-height: 1.5;
+}
+
+.first h1{
+  font-size: 50pt;
+}
+
+.first p{
+  font-size: 22pt;
+}
+
+[class*="col-"]{
+  width: 100%;
+}
+
+.section-3 .sub{
+  height: 15vh;
+}
+
+.first button{
+  padding: 20px 50px;
+  font-size: 17px;
+}
+
+
+
+.footer .icons-footer{
+  display: flex;
+  flex-direction: row;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: white;
+  font-size: 24pt;
+  display: block;
+  padding: 10px;
+
+}
+
