@@ -9,3 +9,6 @@ A simple php-mysql authentication demo
 -You might need to reconfigure the <b>db.php</b> file in includes folder according to your database;
 
 -In your browser, navigate to localhost.
+
+## Preview
+You can preview the front end <a href="https://jesulonimii-php-demo.herokuapp.com/">here</a>
